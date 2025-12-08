@@ -1,5 +1,4 @@
 import os
-import re
 
 with open("input/day7.txt", "r") as f:
     lines = f.readlines()
